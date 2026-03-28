@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Neha Bar
+**QA Automation Engineer | Java | Selenium | Rest Assured | UI & API Testing**
 
-<!--
-**Neha1229/Neha1229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on building **reliable and maintainable test automation solutions** for web and API applications.  
+Experienced in **UI automation, API testing, database validation, and basic framework development** using industry‑standard tools and practices.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+
+**Automation Testing:**  
+Selenium WebDriver • TestNG • Cucumber (BDD) • REST Assured • Page Object Model (POM)
+
+**Programming:**  
+Java • SQL • JavaScript (Basic)
+
+**API & Database Testing:**  
+REST APIs • JSON • XML • Postman • MySQL
+
+**Tools & Frameworks:**  
+Maven • Git • GitHub • Jenkins (Basic) • JIRA
+
+**Web Technologies (Supportive):**  
+HTML • CSS
+
+---
+
+## 🚀 What I Do
+
+- Build and execute UI automation using Selenium + TestNG  
+- Automate REST APIs with Rest Assured  
+- Perform backend validation using SQL  
+- Design maintainable test flows using POM and BDD  
+- Work with Git/GitHub for version control and basic CI integrations  
+
+---
+
+## 🎯 Current Focus
+
+- Strengthening automation framework design  
+- Improving UI and API test coverage  
+- Enhancing test reliability  
+- Learning advanced CI/CD integration  
